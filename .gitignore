@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/hospital_management.db
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
